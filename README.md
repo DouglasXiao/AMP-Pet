@@ -14,6 +14,9 @@ amp-pets-story
   └── README.md
 ```
 
+## Create localhost webserver with Chrome
+[“Web Server for Chrome” Google Chrome app](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
+
 ## License
 
 This tutorial is licensed under [Apache License, Version 2.0](https://github.com/ampproject/docs/blob/master/LICENSE).
